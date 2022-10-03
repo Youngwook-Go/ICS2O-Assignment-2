@@ -1,4 +1,4 @@
-# ICS2O-ICS2O-Assignment-2
+# ICS2O-Assignment-2
 
 Area of equilateral triangle
 
