@@ -1,7 +1,9 @@
-# ICS2O-Template-HTML.CSS.JS
+# ICS2O-ICS2O-Assignment-2
 
-[![Mr Coxall's Super Linter](https://github.com/Youngwook-Go/ICS2O-Template-HTML.CSS.JS/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Youngwook-Go/ICS2O-Template-HTML.CSS.JS/actions/)
+Area of equilateral triangle
 
-[![Run on Repl.it](https://repl.it/badge/github/Youngwook-Go/ICS2O-Template-HTML.CSS.JS)](https://repl.it/github/Youngwook-Go/ICS2O-Template-HTML.CSS.JS)
+[![Mr Coxall's Super Linter](https://github.com/Youngwook-Go/ICS2O-Assignment-2/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Youngwook-Go/ICS2O-Assignment-2/actions/)
 
-This site can be found at: [https://Youngwook-Go.github.io/Template-HTML.CSS.JS](https://Youngwook-Go.github.io/Template-HTML.CSS.JS)
+[![Run on Repl.it](https://repl.it/badge/github/Youngwook-Go/ICS2O-Assignment-2)](https://repl.it/github/Youngwook-Go/ICS2O-Assignment-2)
+
+This site can be found at: [https://Youngwook-Go.github.io/ICS2O-Assignment-2](https://Youngwook-Go.github.io/ICS2O-Assignment-2)
