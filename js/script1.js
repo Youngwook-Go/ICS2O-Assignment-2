@@ -14,8 +14,9 @@ function submitI() {
   const side = parseInt(document.getElementById("side-value").value)
 
   // process
-  const areaS = (Math.sqrt(3) / 4) * (side ** 2)
+  const areaS = (Math.sqrt(3) / 4) * side ** 2
 
   // output
-  document.getElementById("areaS").innerHTML = " The area is : " + areaS + " ㎠ "
+  document.getElementById("areaS").innerHTML =
+    " The area is : " + areaS + " ㎠ "
 }

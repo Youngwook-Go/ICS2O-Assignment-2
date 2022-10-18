@@ -12,7 +12,7 @@
 
 body {
   padding: 10px;
-  background: #CEF2F2;
+  background: #cef2f2;
   position: relative;
 }
 
@@ -30,7 +30,7 @@ a {
 .demo-card-wide > .mdl-card__title {
   color: #fff;
   height: 176px;
-  background: url('../assets/demos/welcome_card.jpg') center / cover;
+  background: url("../assets/demos/welcome_card.jpg") center / cover;
 }
 .demo-card-wide > .mdl-card__menu {
   color: #fff;

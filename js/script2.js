@@ -17,5 +17,6 @@ function submitII() {
   const areaBH = (base * height) / 2
 
   // output
-  document.getElementById("areaBH").innerHTML = " The area is : " + areaBH + " ㎠ "
+  document.getElementById("areaBH").innerHTML =
+    " The area is : " + areaBH + " ㎠ "
 }
