@@ -1,0 +1,37 @@
+/* Created by: Youngwook
+* Created on: Sep 2020
+* This file contains the CSS for index1.html
+*/
+
+/* Due to error in MDL : https://github.com/google/material-design-lite/issues/5281
+*/
+.mdl-ripple {
+  background: #000;
+  opacity: 0.001;
+}
+
+body {
+  padding: 10px;
+  background: #CEF2F2;
+  position: relative;
+}
+
+a {
+  padding: 0 16px;
+  font-size: 14px;
+  text-transform: uppercase;
+  line-height: 36px;
+  vertical-align: middle;
+}
+
+.demo-card-wide.mdl-card {
+  width: 512px;
+}
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+  background: url('../assets/demos/welcome_card.jpg') center / cover;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
