@@ -10,13 +10,13 @@
 
 function submitII() {
   // input
-  const base = parseInt(document.getElementById("base-value").value)
-  const height = parseInt(document.getElementById("height-value").value)
+  const base = parseFloat(document.getElementById("base-value").value)
+  const height = parseFloat(document.getElementById("height-value").value)
 
   // process
   const areaBH = (base * height) / 2
 
   // output
   document.getElementById("areaBH").innerHTML =
-    " The area is : " + areaBH + " ㎠ "
+    " Area of the triangle is : " + areaBH.toFixed(2)
 }
