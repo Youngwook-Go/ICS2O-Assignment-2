@@ -1,6 +1,6 @@
 /* Created by: Youngwook
-* Created on: Sep 2020
-* This file contains the CSS for index2.html
+* Created on: OCT 2022
+* This file contains the CSS for index1.html and index2.html
 */
 
 .mdl-layout__header-row {
@@ -19,8 +19,4 @@
 .mdl-ripple {
   background: #000;
   opacity: 0.001;
-}
-
-p {
-  background-color: #a2eaf2;
 }
