@@ -14,9 +14,9 @@ function submitI() {
   const side = parseFloat(document.getElementById("side-value").value)
 
   // process
-  const areaS = (Math.sqrt(3) / 4) * side ** 2
+  const areaSide = (Math.sqrt(3) / 4) * side ** 2
 
   // output
-  document.getElementById("areaS").innerHTML =
-    "Area of the triangle is: $" + areaS.toFixed(2)
+  document.getElementById("areaSide").innerHTML =
+    "Area of the triangle is: " + areaSide.toFixed(2) + " cm²"
 }
